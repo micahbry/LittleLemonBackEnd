@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'restaurant',
     'rest_framework',
     'djoser',
-    'rest_framework',
     'rest_framework.authtoken',
 ]
 # Add the following line
